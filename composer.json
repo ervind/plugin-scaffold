@@ -1,0 +1,13 @@
+{
+    "name": "ervind/plugin-scaffold",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "PluginScaffold\\": "class/"
+        }
+    },
+	"optimize-autoloader": true,
+    "require": {
+        "ext-mysqli": "*"
+    }
+}
